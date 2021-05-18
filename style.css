@@ -1,0 +1,19 @@
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    height:300px;
+    width: 400px;
+    padding-top: 5px;
+}
+.body{
+    border-style: solid;
+    border-color: black;
+    padding-left: 60px;
+    padding-right: 20px;
+    width: 440px;
+    height: 340px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin: auto;
+    background-color: aqua;
+}
